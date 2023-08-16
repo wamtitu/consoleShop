@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "ProductName": "toyota hillux",
-      "Description": "205 model in good condition",
-      "Quantity": "1",
-      "Price": "15000",
-      "id": 2
+      "ProductName": "bmw ",
+      "Description": "yenye inakaa mazda",
+      "Quantity": "2",
+      "Price": "30000",
+      "id": 3
+    },
+    {
+      "ProductName": "mazda demio",
+      "Description": "kagari unaeza beba",
+      "Quantity": "15",
+      "Price": "200",
+      "id": 4
     }
   ]
 }

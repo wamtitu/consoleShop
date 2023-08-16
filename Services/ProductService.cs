@@ -31,8 +31,14 @@ namespace consoleShop.Services
             throw new NotImplementedException();
         }
 
-        Task<Success>IService.DeleteProductAsync(string id)
+        public async Task<Success>DeleteProductAsync(string id)
         {
+             var response = await _httpClient.DeleteAsync(_url + "/" + id);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return new Success { message = "Product Deleted Successfully " };
+            }
             throw new NotImplementedException();
         }
 
@@ -57,8 +63,16 @@ namespace consoleShop.Services
             throw new NotImplementedException("no products found");
         }
 
-        Task<Success> IService.UpdateProductAsync(GetProducts products)
+       public async Task<Success> UpdateProductAsync(GetProducts products)
         {
+            var content = JsonConvert.SerializeObject(products);
+            var bodyContent = new StringContent(content, Encoding.UTF8, "application/json");
+            var response = await _httpClient.PutAsync(_url + "/" + products.ID, bodyContent);
+
+             if (response.IsSuccessStatusCode)
+            {
+                return new Success { message = "The Product was updated successfully " };
+            }
             throw new NotImplementedException();
         }
     }
