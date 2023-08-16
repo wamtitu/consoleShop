@@ -1,0 +1,17 @@
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\consoleShop.exe
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\consoleShop.deps.json
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\consoleShop.runtimeconfig.json
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\consoleShop.dll
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\consoleShop.pdb
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.csproj.AssemblyReference.cache
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.AssemblyInfoInputs.cache
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.AssemblyInfo.cs
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.dll
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\refint\consoleShop.dll
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.pdb
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.genruntimeconfig.cache
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\ref\consoleShop.dll
+C:\Users\lenovo\desktop\.NET\consoleShop\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lenovo\desktop\.NET\consoleShop\obj\Debug\net7.0\consoleShop.csproj.CopyComplete

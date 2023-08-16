@@ -1,0 +1,18 @@
+{
+  "Products": [
+    {
+      "ProductName": "toyota supra 1995",
+      "Description": "classic vehicle",
+      "Quantity": "3",
+      "Price": "20000",
+      "id": 1
+    },
+    {
+      "ProductName": "toyota hillux",
+      "Description": "205 model in good condition",
+      "Quantity": "1",
+      "Price": "15000",
+      "id": 2
+    }
+  ]
+}

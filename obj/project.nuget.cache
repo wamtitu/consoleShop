@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+YdI2Hhyt/y91hliElyLLWJ7vH9K970jqFDJyTsg7zKWScksx85gcSw2ijuUcL7qu1wOFgqBQrD87saeU3p03A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\desktop\\.NET\\consoleShop\\consoleShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
